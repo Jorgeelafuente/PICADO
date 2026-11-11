@@ -1,0 +1,5 @@
+# Evita subir documentos con datos sensibles por error
+*.pdf
+*.xlsx
+*.xls
+__pycache__/
